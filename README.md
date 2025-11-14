@@ -1,7 +1,48 @@
-## Hi there 👋
+# Hi, I'm Jose Antonio Moreno Marin! 👋
+
+Full Stack software developer with solid experience in Angular, TypeScript, and Laravel due to my current job at Xerintel Internet Techonolgies. 
+
+I bring analytical thinking and attention to detail from my previous career in sports physiotherapy, aiming to deliver clear, efficient, and well-structured solutions. 
+
+Always focused on improving and adding value to every project I work on. 🔧
+
+<!--![jmoreno-dev's Stats](https://github-readme-stats.vercel.app/api?username=jmoreno-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
+
+## 🚀 About Me
+
+- 🔹 Experienced in mobile apps development using Ionic, Angular, TypeScript & Laravel.
+- 🔭 I'm currently, exploring React & Spring Boot due to my passion to be always learning and applying modern development practices.
+- 💡 Former sports physiotherapist bringing precision and analytical thinking to code.
+- ✨ Passionate about building intuitive, efficient, and maintainable solutions.
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=angular,react,js,html,css,laravel,java,spring,git)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with modern CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Spring Boot, a powerful Java framework.
+  - Diving into MySQL and PostgreSQL for efficient and scalable database management.
+
+<!-- ## 🏆 Achievements 
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.-->
+
+
+## 📬 Get in Touch
+
+- Connect with me on LinkedIn: www.linkedin.com/in/joseantonio-morenomarin
+- Mail me on jmormar00@gmail.com
+
+Thanks for stopping by! Let's connect and talk! 🚀
+
+
 
 <!--
-**jmoreno-dev/jmoreno-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
