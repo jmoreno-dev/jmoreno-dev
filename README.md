@@ -10,7 +10,7 @@ Always focused on improving and adding value to every project I work on. 🔧
 
 ## 🚀 About Me
 
-- 🔹 Experienced in mobile apps development using Ionic, Angular, TypeScript & Laravel.
+- 🔹 Experienced in mobile apps development using web technology as Angular, SCSS, TypeScript &  PHP (Laravel).
 - 🔭 I'm currently, exploring React & Spring Boot due to my passion to be always learning and applying modern development practices.
 - 💡 Former sports physiotherapist bringing precision and analytical thinking to code.
 - ✨ Passionate about building intuitive, efficient, and maintainable solutions.
