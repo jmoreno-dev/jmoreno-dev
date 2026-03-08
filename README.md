@@ -18,7 +18,7 @@ Always focused on improving and adding value to every project I work on. 🔧
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,java,spring,ts,html,css,laravel,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,java,spring,ts,html,css,laravel,docker,git)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
