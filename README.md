@@ -1,6 +1,6 @@
 # Hi, I'm Jose Antonio Moreno Marin! 👋
 
-Full Stack software developer specialized in Angular & Java Spring Boot. With solid work experience in Angular and Laravel due to my current job at Xerintel Internet Techonolgies.
+Software Engineer specialized in Java, Spring Boot & Angular.
 
 I bring analytical thinking and attention to detail from my previous career in sports physiotherapy, aiming to deliver clear, efficient, and well-structured solutions. 
 
@@ -11,22 +11,22 @@ Always focused on improving and adding value to every project I work on. 🔧
 ## 🚀 About Me
 
 - 🔹 Experienced in mobile apps development using web technology as Angular, SCSS, TypeScript &  PHP (Laravel).
-- 🔭 I'm currently, exploring Angular & Spring Boot due to my passion to be always learning and applying modern development practices.
+- 🔭 I'm currently, exploring Java, Spring Boot & Docker due to my passion to be always learning and applying modern development practices.
 - 💡 Former sports physiotherapist bringing precision and analytical thinking to code.
 - ✨ Passionate about building intuitive, efficient, and maintainable solutions.
 - 🌐 You can also visit my web: https://josemorenodev.com/
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,java,spring,ts,html,css,laravel,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,laravel,angular,ts,git)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+<!--## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of Angular for dynamic front-end experiences.
   - Styling with modern CSS to create modern and responsive user interfaces.
   - Building server-side applications with Spring Boot, a powerful Java framework.
-  - Diving into MySQL and PostgreSQL for efficient and scalable database management.
+  - Diving into MySQL and PostgreSQL for efficient and scalable database management.-->
 
 <!-- ## 🏆 Achievements 
 
