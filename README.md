@@ -10,12 +10,10 @@ Always focused on improving and adding value to every project I work on. 🔧
 
 ## 🚀 About Me
 
-- 🔹 Experienced in mobile apps development using web technology as Angular, SCSS, TypeScript &  PHP (Laravel).
-- 🔭 I'm currently, exploring Java, Spring Boot & Docker due to my passion to be always learning and applying modern development practices.
+- 🔹 Experienced in mobile apps development using web technology as Angular & PHP (Laravel).
+- 🔭 I'm currently exploring Java, Spring Boot & Docker due to my passion to be always learning and applying modern development practices.
 - 💡 Former sports physiotherapist bringing precision and analytical thinking to code.
 - ✨ Passionate about building intuitive, efficient, and maintainable solutions.
-- 🌐 You can also visit my web: https://josemorenodev.com/
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,laravel,angular,ts,git)](https://skillicons.dev)
@@ -35,15 +33,13 @@ Always focused on improving and adding value to every project I work on. 🔧
 
 ## 📬 Get in Touch
 
-- Connect with me on LinkedIn: www.linkedin.com/in/joseantonio-morenomarin
 - Mail me on jmormar00@gmail.com
+- Connect with me on LinkedIn: www.linkedin.com/in/joseantonio-morenomarin
+- Personal website: https://josemorenodev.com/
 
-Thanks for stopping by! Let's connect and talk! 🚀
-
-
+Thanks for stopping by! Let's connect and talk! 😊
 
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
