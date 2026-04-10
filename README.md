@@ -39,6 +39,13 @@ Always focused on improving and adding value to every project I work on. 🔧
 Thanks for stopping by! Let's connect and talk! 😊
 
 <!--
+## 📌 Featured Project
+
+**Training API** — REST API for fitness coaching management built with Java 21, 
+Spring Boot, PostgreSQL and Docker. Includes JWT authentication, role-based access 
+control, full test coverage with JUnit & Mockito, and CI/CD with GitHub Actions.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
