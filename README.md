@@ -1,22 +1,21 @@
-# Hi, I'm Jose Antonio Moreno Marin! 👋
+# Hi, I'm Jose! 👋
 
-Software Engineer specialized in Java, Spring Boot & Angular.
+Full Stack developer transitioning into backend engineering with Java & Spring Boot.
 
-I bring analytical thinking and attention to detail from my previous career in sports physiotherapy, aiming to deliver clear, efficient, and well-structured solutions. 
-
+I come from a background in sports physiotherapy, which shaped how I approach problems: methodically, with attention to detail, and always looking for the root cause, not just the symptom.
 Always focused on improving and adding value to every project I work on. 🔧
 
 <!--![jmoreno-dev's Stats](https://github-readme-stats.vercel.app/api?username=jmoreno-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
 ## 🚀 About Me
 
-- 🔹 Experienced in mobile apps development using web technology as Angular & PHP (Laravel).
-- 🔭 I'm currently exploring Java, Spring Boot & Docker due to my passion to be always learning and applying modern development practices.
-- 💡 Former sports physiotherapist bringing precision and analytical thinking to code.
-- ✨ Passionate about building intuitive, efficient, and maintainable solutions.
+🔧 Currently working with Java 21 · Spring Boot · PostgreSQL · Docker · JUnit & Mockito
+📦 Background in Laravel · Angular · Ionic
+🎯 What I'm building toward
+Backend-focused roles where clean architecture, solid testing and maintainable code actually matter.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,laravel,angular,ts,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,laravel,angular,ts,git)](https://skillicons.dev)
 
 <!--## 🌱 Currently Exploring
 
