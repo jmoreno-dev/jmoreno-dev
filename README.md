@@ -9,10 +9,10 @@ Always focused on improving and adding value to every project I work on. 🔧
 
 ## 🚀 About Me
 
-🔧 Currently working with Java 21 · Spring Boot · PostgreSQL · Docker · JUnit & Mockito
-📦 Background in Laravel · Angular · Ionic
-🎯 What I'm building toward
-Backend-focused roles where clean architecture, solid testing and maintainable code actually matter.
+- 🔧 Currently working with Java 21 · Spring Boot · PostgreSQL · Docker · JUnit & Mockito
+- 📦 Background in Laravel · Angular · Ionic
+- 🎯 What I'm building toward
+- Backend-focused roles where clean architecture, solid testing and maintainable code actually matter.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,laravel,angular,ts,git)](https://skillicons.dev)
