@@ -38,6 +38,7 @@ Always focused on improving and adding value to every project I work on. 🔧
 - Mail me on jmormar00@gmail.com
 - Connect with me on LinkedIn: www.linkedin.com/in/joseantonio-morenomarin
 - Personal website: https://josemorenodev.com/
+- YouTube: https://www.youtube.com/@josemorenodevs
 
 Thanks for stopping by! Let's connect and talk! 😊
 
